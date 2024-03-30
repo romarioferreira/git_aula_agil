@@ -5,5 +5,6 @@ display_messages = [
     "fique tranquilo",
     "tudo vai acabar bem"
     "não mataras",
-    "não roubaras"
+    "não roubaras",
+    "acredite no seu potencial"
 ]

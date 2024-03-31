@@ -5,7 +5,7 @@ import time
 
 time.sleep(2)
 
-print("Starting project again")
+print("Starting project again in 3... 2... 1...")
 
 while True:
     resposta = input("deseja receber um concelho? S/N")

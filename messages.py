@@ -7,5 +7,5 @@ display_messages = [
     "não mataras",
     "não roubaras",
     "acredite no seu potencial",
-    "conselho sera commitado e apagado"
+    "sempre apague as luzes antes de sair"
 ]
